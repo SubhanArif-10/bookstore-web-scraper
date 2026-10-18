@@ -16,6 +16,6 @@ A Python web scraper that collects competitor book data from [books.toscrape.com
 Open the notebook in Google Colab and choose Runtime → Run all.
 
 ## Files
-- `Assignment_2_Bookstore_Scraper.ipynb`: scraper and analysis
+- `23i_5135_Assignment2.ipynb`: scraper and analysis
 - `competitor_books.csv`: scraped dataset
 - `rating_counts.png`: bar chart of star ratings
